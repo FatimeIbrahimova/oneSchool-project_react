@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav-list ul{
+    display: flex;
+    gap:30px;
+}
+.nav-list a{
+    list-style: none;
+    text-decoration: none;
+}
+.contact-btn{
+    border: none;
+    border-radius: 30px;
+    background-color: #7071ea;
+    color:white;
+    padding: 14px 20px;
+    font-weight: 900;
+    font-size: 14px;
+}

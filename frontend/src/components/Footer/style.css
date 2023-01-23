@@ -1,0 +1,28 @@
+.btn-subscribe{
+    background-color: #7971ea;
+    padding: 14px 30px;
+    border:none;
+    color:white;
+}
+.form{
+    display: flex;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.footer-left p{
+    color:#808080;
+}
+.footer-left{
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    color: #7971ea;
+}
+li{
+    list-style: none;
+}
